@@ -8,4 +8,6 @@ Displaying top-breaking news on single page.
 ### 2- Javascript
 ### 3- Bootstrap
 
+## API 
+### NewsAPI :  https://newsapi.org/
 Author : Ankit Ojha (ankitojha1409@gmail.com)
