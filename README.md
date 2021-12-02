@@ -5,9 +5,9 @@ News website for top breaking news.
 Displaying top-breaking news on single page.
 
 ## Technology Used :
-### 1- HTML & CSS
-### 2- Javascript
-### 3- Bootstrap
+#### 1- HTML & CSS
+#### 2- Javascript
+#### 3- Bootstrap
 
 ## API 
 ### NewsAPI :  https://newsapi.org/
